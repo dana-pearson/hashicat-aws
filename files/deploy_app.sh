@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. This is a super duper catchy marketing slogan written in github.
+  Welcome to ${PREFIX}'s app. This is still a super duper catchy marketing slogan written in github.
   <!-- END -->
 
   </div>
