@@ -2,7 +2,7 @@ module "s3_bucket" {
   source = "terraform-aws-modules/s3-bucket/aws"
   version =  "2.8.0"
 
-  bucket = "my-s3-bucket-AKIAQ53ULEQ2JPJ42A4S-from-file"
+  bucket = "my-s3-bucket-v053148-from-file"
   acl    = "private"
 
   control_object_ownership = true
